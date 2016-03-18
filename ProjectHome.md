@@ -1,0 +1,1 @@
+Using OPENCV, the goal of the project is to reconize emotions on static images
